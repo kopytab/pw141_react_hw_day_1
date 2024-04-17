@@ -1,0 +1,23 @@
+.app {
+  background-color: darkslategrey;
+  color: lightcoral;
+  height: 100vh;
+}
+
+.main-heading{
+  background-color: rgb(213, 113, 113);
+  color: rgb(255, 0, 0);
+  width: 100%;
+}
+
+.signupbtn {
+  border-radius: 15px;
+  min-width: 20%;
+  background-color: lightcoral;
+  color: darkslategray;
+  font-weight: 800;
+}
+
+.headtext{
+  color: aquamarine;
+}
