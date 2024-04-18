@@ -1,11 +1,11 @@
 .app {
-  background-color: darkslategrey;
-  color: lightcoral;
-  height: 100vh;
+  background-color: rgb(35, 4, 49);
+  color: rgb(95, 107, 185);
+  /* height: 100vh; */
 }
 
 .main-heading{
-  background-color: rgb(213, 113, 113);
+  background-color: rgb(59, 68, 125);
   color: rgb(255, 0, 0);
   width: 100%;
 }
@@ -13,11 +13,19 @@
 .signupbtn {
   border-radius: 15px;
   min-width: 20%;
-  background-color: lightcoral;
-  color: darkslategray;
+  background-color: rgb(95,107,185) ;
+  color: rgb(35, 4, 49);
   font-weight: 800;
 }
 
 .headtext{
   color: aquamarine;
+}
+
+.singleps{
+  border-bottom: 2px solid lightcoral;
+}
+
+.singlefl {
+  border-bottom: 2px solid lightcoral;
 }

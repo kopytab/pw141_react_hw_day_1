@@ -6,6 +6,7 @@ export default function Header() {
     <Navbar data-bs-theme='dark' className='main-heading'>
       <Container>
         <Navbar.Brand className='headtext'>Bryce's Portal</Navbar.Brand>
+        
       </Container>
     </Navbar>
   )
