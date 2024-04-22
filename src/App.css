@@ -1,7 +1,7 @@
 .app {
   background-color: rgb(35, 4, 49);
   color: rgb(95, 107, 185);
-  /* height: 100vh; */
+  height: fit-content;
 }
 
 .main-heading{
@@ -29,3 +29,22 @@
 .singlefl {
   border-bottom: 2px solid lightcoral;
 }
+
+.landingcont {
+  min-width: 100%;
+}
+
+.formscont{
+  min-width: 100%;
+}
+
+/* .stack{
+  flex-wrap: wrap;
+} */
+
+#sidebar{
+  background-color: rgb(35, 4, 49);
+  border-radius: 5px;
+}
+
+
